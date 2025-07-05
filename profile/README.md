@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-[we propose a sun-centric model of the universe, like riding the barrel of a wave. seriously.](https://www.youtube.com/watch?v=JDRNaAxryu8)
+[we propose an information-mass-centric model of the universe.](https://www.youtube.com/watch?v=JDRNaAxryu8)
 
 suggested learning:
 
