@@ -10,3 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+[we propose a sun-centric model of the universe, like riding the barrel of a wave. seriously.](https://www.youtube.com/watch?v=JDRNaAxryu8)
+
+suggested learning:
+
+- ["Make your bed." - Admiral McRaven](https://www.youtube.com/watch?v=yaQZFhrW0fU)
+- ["This is Water." - David Foster Wallace](https://www.youtube.com/watch?v=ms2BvRbjOYo)
