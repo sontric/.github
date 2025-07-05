@@ -10,9 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-[we propose an information-mass-centric model of the universe.](https://www.youtube.com/watch?v=JDRNaAxryu8)
-
-suggested learning:
-
+- [we propose an information-mass-centric model of the universe.](https://www.youtube.com/watch?v=JDRNaAxryu8)
+- [current project (sst = snipped string theory = signed spiral theorem)](https://github.com/soncentric/snipped-string-theory)
+- [test reports](https://github.com/soncentric/snipped-string-theory/actions)
 - ["Make your bed." - Admiral McRaven](https://www.youtube.com/watch?v=yaQZFhrW0fU)
 - ["This is Water." - David Foster Wallace](https://www.youtube.com/watch?v=ms2BvRbjOYo)
