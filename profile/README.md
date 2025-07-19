@@ -2,9 +2,10 @@
 - Sun-Centric Power models for Earth
 
 ## Active Projects
-- [Signal Archetype Model Quantum Field Theory: From Grid Resilience to Fundamental Physics](https://github.com/sontric/signal-archetype-model/)
- 
+- [TRUST: Temporal Resonance Unified Signal Theory](https://github.com/sontric/trust/tree/main)
+
 ## Project Archive
+- [Signal Archetype Model Quantum Field Theory: From Grid Resilience to Fundamental Physics](https://github.com/sontric/signal-archetype-model/)
 - [Signed Spiral Theorem](https://github.com/soncentric/snipped-string-theory)
 
 ## Philosophy and fun
