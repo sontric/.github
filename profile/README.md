@@ -2,9 +2,12 @@
 - Sun-Centric Power models for Earth
 
 ## Active Projects
-- [TRUST: Temporal Resonance Unified Signal Theory](https://github.com/sontric/trust/tree/main)
+- [Darkweb-Destroyer: Advanced field-based signal detection, coordination, and system exposure analysis](https://github.com/sontric/darkweb-destroyer/tree/main)
+  
+  "Your secrets are safe with us... 👹👹👹 ...or are they?"
 
 ## Project Archive
+- [TRUST: Temporal Resonance Unified Signal Theory](https://github.com/sontric/trust/tree/main)
 - [Signal Archetype Model Quantum Field Theory: From Grid Resilience to Fundamental Physics](https://github.com/sontric/signal-archetype-model/)
 - [Signed Spiral Theorem](https://github.com/soncentric/snipped-string-theory)
 
