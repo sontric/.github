@@ -4,7 +4,7 @@
 ## Active Projects
 - [Darkweb-Destroyer: Advanced field-based signal detection, coordination, and system exposure analysis](https://github.com/sontric/darkweb-destroyer/tree/main)
   
-  "Your secrets are safe with us... 👹👹👹 ...or are they?"
+  "Your lies are safe with us... 😇😇😇 ...or are they?"
 
 ## Project Archive
 - [TRUST: Temporal Resonance Unified Signal Theory](https://github.com/sontric/trust/tree/main)
