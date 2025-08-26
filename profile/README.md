@@ -2,7 +2,7 @@
 
 **Open Source Research Initiative**
 
-Sontric is focused on developing the **TRUST framework**, a modular approach to physics and verification based on waveform coherence.  
+Sontric is currently focused on developing the **TRUST framework**, a modular approach to physics and verification based on waveform coherence.  
 
 ## Citation
 
