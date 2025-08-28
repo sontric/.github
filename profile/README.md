@@ -1,6 +1,6 @@
 # Sontric
 
-**Open Source Research Initiative**
+**Open Source Research & Development Initiative**
 
 Sontric is currently focused on developing the **TRUST framework**, a modular approach to physics and verification based on waveform coherence.  
 
