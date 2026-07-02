@@ -1,6 +1,7 @@
 # Sontric
- 
-Side quests. Garage lab. Mostly harmless.  
-Tools & mischief. Projects for no good reason.  
-Unauthorized experiments. Probably a bad idea.   
-A folder of problems. It seemed reasonable.  
+
+Unauthorized experiments — now conducted under official letterhead.
+
+Sontric has been absorbed into **[The Chaos Bureau](https://github.com/TheChaosBureau)**.
+Old repository URLs redirect automatically. Nothing was lost in the move;
+a few things were found.
